@@ -15,11 +15,9 @@ In this guide I'll show you how to make your profile very similar to [mine](http
 
 ## The basics:
 
-A primeira coisa que faremos é adicionar uma foto no nosso perfil que mostre quem somos. Vejo muita gente utilizar fotos de anime (eu mesma já fiz isso rs), por exemplo, mas eu recomendo tentar ou colocar uma foto de si ou algum desenho seu, que você tenha feito ou tenha direitos autorais sobre a imagem. 
+The first thing you should do is to fulfill your profile. You can add a profile picture, your name, and a short summary about yourself (your Bio). You can @mention other users and organizations to link to them.
 
-Não é nem pelo fato dos direitos autorais em si, mas sim pela credibilidade que você irá passar para quem entrar no seu perfil.
-
-Depois iremos configurar as informações do nosso perfil que aparecem no canto esquerdo, pois por mais que elas sejam padrão, grade parte das pessoas que forem olhar o seu perfil vão focar nessa parte, pois mostra de onde você trabalha, para qual empresa, qual seu email de contato e muito mais.
+After that, you can add some personal information, such as the company you're currently working for, country and state, your e-mail for contact, and your twitter. Remember, you're not obligated to do this, only if you wish. (づ｡◕‿‿◕｡)づ
 
 Para isso, clicamos em "Edit Profile" no canto esquerdo da nossa página de perfil:
 
