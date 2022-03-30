@@ -37,14 +37,14 @@ Here is a link with a quick tutorial on markdown. [Markdown Cheat Sheet](https:/
 
 ## What you can put on your README:
 
-## Github Stats:
+### Github Stats:
 
-[Github Stats](https://github.com/anuraghazra/github-readme-stats)
+Here's a link where you can find these stats cards. and how you can customize them. [Github Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://user-images.githubusercontent.com/64812097/160905805-5cd660cc-f8fc-4979-a8c4-2524b2acbe85.png)
 
 
-## Badges das tecnologias
+## Technologies Icons:
 
 https://devicon.dev/
 
