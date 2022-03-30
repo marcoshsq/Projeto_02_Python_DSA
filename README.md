@@ -2,11 +2,18 @@
 
 ## Intro:
 
-In this guide I'll show you how to make your profile very similar to [mine](https://github.com/marcoshsq) and also provide additional customizations that you can do, if you wish.
+I love it when websites, social medias, or platforms in general allow users to customize their pages or profiles. I like that personal touch. So when I started using github, I spent a some time doing that. However, some people have already asked me how I customized my profile, so to solve this I decided to create this guide.
 
-![Meu perfil personalizado no Github](https://media.discordapp.net/attachments/831974152667398214/859101524118208543/unknown.png?width=1225&height=670)
+In this guide I'll show you how to make your profile very similar to [mine](https://github.com/marcoshsq) if you want of course, and also provide some additional links where you can find icons, badges and templates customizations that you can do.
 
-## Configurações gerais do perfil
+---
+
+![My github profile](https://user-images.githubusercontent.com/64812097/160773593-aee68bc0-3d5f-4de9-890e-8d0d88255153.png)
+
+---
+
+
+## The basics:
 
 A primeira coisa que faremos é adicionar uma foto no nosso perfil que mostre quem somos. Vejo muita gente utilizar fotos de anime (eu mesma já fiz isso rs), por exemplo, mas eu recomendo tentar ou colocar uma foto de si ou algum desenho seu, que você tenha feito ou tenha direitos autorais sobre a imagem. 
 
