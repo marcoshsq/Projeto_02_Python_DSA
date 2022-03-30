@@ -37,7 +37,7 @@ Here is a link with a quick tutorial on markdown. [Markdown Cheat Sheet](https:/
 
 ## What you can put on your README:
 
-### Github Stats:
+## Github Stats:
 
 Here's a link where you can find these stats cards. and how you can customize them. [Github Stats](https://github.com/anuraghazra/github-readme-stats)
 
@@ -48,7 +48,7 @@ Here's a link where you can find these stats cards. and how you can customize th
 
 https://devicon.dev/
 
-## Links para redes sociais
+## Social Media icons:
 
 https://dev.to/envoy_/150-badges-for-github-pnk
 
@@ -56,22 +56,18 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 https://picrew.me/image_maker/338224
 
-## Cobrinha
+## Other things you can add:
 
-https://www.instagram.com/p/CPjUBhXDNEE/
-
-## Exemplos de repositórios e outras ideias
-
-SIMBOLOS
+Symbols:
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://dev.to/envoy_/150-badges-for-github-pnk
 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
 
-Youtube
+Youtube:
 https://github.com/DenverCoder1/github-readme-youtube-stats#subscribers-badge
 
-Descritivo
+Descriptive:
 https://github.com/garimasingh128/garimasingh128
 https://github.com/Defcon27/Defcon27
 https://github.com/onimur/onimur
@@ -79,60 +75,60 @@ https://github.com/Rishit-dagli/Rishit-dagli
 https://github.com/bornmay/bornmay
 https://github.com/PrincessAkira/PrincessAkira ANIME
 
-Tecnologias
+Technologies:
 https://github.com/techytushar/techytushar
 
-Código
+Code: 
 https://github.com/anmol098/anmol098
 
-Arte própria
+Art:
 https://github.com/stephenajulu/stephena
 julu
 https://github.com/DennisHartrampf/DennisHartrampf
 
-Gifs
+Gifs:
 https://github.com/ari-hacks/ari-hacks
 https://github.com/Prince-Shivaram/Prince-Shivaram
 https://github.com/Shanu1515/Shanu1515
 
-Digitação
+Typing:
 https://github.com/CyrisXD/CyrisXD
 https://github.com/mmphego/mmphego
 
-Minimalistas
+Minimalists:
 https://github.com/caneco/
 https://github.com/pr2tik1/pr2tik1
 
-Ferramentas
+#### Tools:
 
-To do list
+To do list:
 https://github.com/abhisheknaiidu/todoist-readme
 
-Dev time
+Dev time:
 https://github.com/athul/waka-readme
 
-Spotify
+Spotify:
 https://github.com/kittinan/spotify-github-profile
 https://github.com/novatorem/novatorem
 
-Linkedin
+Linkedin:
 https://github.com/soroushchehresa/github-readme-linkedin
 
-Stackoverflow
+Stackoverflow:
 https://github.com/omidnikrah/github-readme-stackoverflow
 
-Dev Jokes
+Dev Jokes:
 https://github.com/ABSphreak/readme-jokes
 
-Trofeus
+Trophies:
 https://github.com/ryo-ma/github-profile-trophy
 
-Twitter
+Twitter:
 https://github.com/gazf/github-readme-twitter
 
-Meme aleatorio
+Random meme:
 https://github.com/techytushar/random-memer
 
-Quotes
+Quotes:
 https://github.com/PiyushSuthar/github-readme-quotes
 
