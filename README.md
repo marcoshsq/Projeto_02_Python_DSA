@@ -17,31 +17,17 @@ In this guide I'll show you how to make your profile very similar to [mine](http
 
 The first thing you should do is to fulfill your profile. You can add a profile picture, your name, and a short summary about yourself (your Bio). You can @mention other users and organizations to link to them.
 
-After that, you can add some personal information, such as the company you're currently working for, country and state, your e-mail for contact, and your twitter. Remember, you're not obligated to do this, only if you wish. (づ｡◕‿‿◕｡)づ
+After that, you can add some personal information, such as the company you're currently working for, country and state, your e-mail for contact, and your twitter. Remember, you're not obligated to do this, only if you wish. 
 
-Para isso, clicamos em "Edit Profile" no canto esquerdo da nossa página de perfil:
+(づ｡◕‿‿◕｡)づ
 
-![Edit profile](https://media.discordapp.net/attachments/831974152667398214/859115292369616946/unknown.png)
+## Designing your Profile
 
-Em seguida, completaremos com as informações que acharmos necessárias para algum outro desenvolvedor ou mesmo um recrutador olhar e entender quem você é.
+The first thig you should do is to create a repository with your user profile as a repository name, mine for example is [`marcoshsq`](https://github.com/marcoshsq).
 
-Na bio por exemplo coloquei `Instrutora, desenvolvedora front-end e criadora de conteúdo de programação e tecnologia!`. Então você pode completar com seu cargo ou o que estuda.
+Once you create this repository, github will say, it's a very special one. Let it public and add a `README.md`.
 
-Abaixo você adiciona a empresa que trabalha atualmente, sua localização, email de contato, link da sua página web (caso tenha) e seu twitter.
-
-Você pode notar também que existem algumas outras informações abaixo dessas, porém se referem às organizações da [nossa comunidade do discord](https://discord.gg/G9GPg5SA75) ou da empresa que trabalho.
-
-## Criação do repositório do perfil
-
-Agora vamos para o que interessa, que é a personalização do nosso perfil.
-
-Primeira coisa que fazemos é criar um repositório com o nome do nosso usuário no github. O meu por exemplo é [`rafaballerini`](https://github.com/rafaballerini/rafaballerini).
-
-Logo que você cria esse repositório já aparece uma mensagem do próprio github dizendo que ele é especial.
-
-![Repositório especial](https://media.discordapp.net/attachments/831974152667398214/859295509894529064/unknown.png)
-
-Deixe-o público e inicialize ele com o `README.md`.
+The `README.md` of this repository will be your profile on github, and everything you do in it will appear on your page.
 
 ## O que é markdown e como funciona
 
