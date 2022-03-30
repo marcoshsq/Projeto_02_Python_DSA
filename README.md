@@ -37,6 +37,10 @@ Here is a link with a quick tutorial on markdown. [Markdown Cheat Sheet](https:/
 
 ## What you can put on your README:
 
+First, if you want inspiration, here is a list of Awesome GitHub Profile README, with dozens of examples for you:
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
 ## Github Stats:
 
 Here's a link where you can find these stats cards. and how you can customize them. [Github Stats](https://github.com/anuraghazra/github-readme-stats)
