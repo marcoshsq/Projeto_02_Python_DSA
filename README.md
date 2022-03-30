@@ -63,56 +63,81 @@ https://picrew.me/image_maker/338224
 ## Other things you can add:
 
 Symbols:
+
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+
 https://dev.to/envoy_/150-badges-for-github-pnk
 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
 
 Youtube:
+
 https://github.com/DenverCoder1/github-readme-youtube-stats#subscribers-badge
 
 Descriptive:
+
 https://github.com/garimasingh128/garimasingh128
+
 https://github.com/Defcon27/Defcon27
+
 https://github.com/onimur/onimur
+
 https://github.com/Rishit-dagli/Rishit-dagli
+
 https://github.com/bornmay/bornmay
-https://github.com/PrincessAkira/PrincessAkira ANIME
+
+https://github.com/PrincessAkira/PrincessAkira 
+
 
 Technologies:
+
 https://github.com/techytushar/techytushar
 
 Code: 
+
 https://github.com/anmol098/anmol098
 
 Art:
+
 https://github.com/stephenajulu/stephena
+
 julu
 https://github.com/DennisHartrampf/DennisHartrampf
 
 Gifs:
+
 https://github.com/ari-hacks/ari-hacks
+
 https://github.com/Prince-Shivaram/Prince-Shivaram
+
 https://github.com/Shanu1515/Shanu1515
 
 Typing:
+
 https://github.com/CyrisXD/CyrisXD
+
 https://github.com/mmphego/mmphego
 
 Minimalists:
+
 https://github.com/caneco/
+
 https://github.com/pr2tik1/pr2tik1
 
 #### Tools:
 
 To do list:
+
 https://github.com/abhisheknaiidu/todoist-readme
 
 Dev time:
+
 https://github.com/athul/waka-readme
 
 Spotify:
+
 https://github.com/kittinan/spotify-github-profile
+
 https://github.com/novatorem/novatorem
 
 Linkedin:
