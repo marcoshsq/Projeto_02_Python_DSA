@@ -29,11 +29,11 @@ Once you create this repository, github will say, it's a very special one. Let i
 
 The `README.md` of this repository will be your profile on github, and everything you do in it will appear on your page.
 
-## O que é markdown e como funciona
+## How to write on your README
 
-Como vocês perceberam a extensão desse arquivo é `.md`, o que indica que ele é escrito em markdown
+As you noticed the extension of this file is `.md`, which indicates that it is written in markdown.
 
-https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+Here is a link with a quick tutorial on markdown. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 
 ## Escrevendo o básico
 
