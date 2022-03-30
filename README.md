@@ -35,12 +35,14 @@ As you noticed the extension of this file is `.md`, which indicates that it is w
 
 Here is a link with a quick tutorial on markdown. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 
-## Escrevendo o básico
+## What you can put on your README:
 
-## Github Stats e diferentes formatos para ele
+## Github Stats:
 
-Github Stats
-https://github.com/anuraghazra/github-readme-stats
+[Github Stats](https://github.com/anuraghazra/github-readme-stats)
+
+![image](https://user-images.githubusercontent.com/64812097/160905805-5cd660cc-f8fc-4979-a8c4-2524b2acbe85.png)
+
 
 ## Badges das tecnologias
 
