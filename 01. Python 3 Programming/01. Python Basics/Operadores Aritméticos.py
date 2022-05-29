@@ -44,6 +44,23 @@ def testar_operadores_aritméticos():
     assert isinstance(5 // 3, int)
 
 
+# Extra
+"""abs()
+
+Retorna o valor absoluto de um número. 
+
+O argumento pode ser um inteiro, um número de ponto flutuante ou um objeto 
+implementando __abs__(). Se o argumento é um número complexo, 
+sua magnitude é retornada.
+"""
+
+x = -3.14156
+abs(x)  # Retorna 3.14156
+
+y = 5 + 6j
+abs(y)  # Retorna 7.810249675906654
+
+
 """(づ｡◕‿‿◕｡)づ
 
 """

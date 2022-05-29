@@ -42,3 +42,8 @@ def test_type_casting_to_string():
     assert str("s1") == "s1"
     assert str(2) == "2"
     assert str(3.0) == "3.0"
+
+
+"""(づ｡◕‿‿◕｡)づ
+
+"""

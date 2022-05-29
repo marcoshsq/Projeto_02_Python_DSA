@@ -132,14 +132,8 @@ len(nome)
 
 # A função help recebe um objeto como parâmetro
 # e devolve as funcionalidades do objeto
-help(str)
-
-help(tuple)
-
-###
-
-
-###
+help(str)  # Help on class str in module builtins
+help(tuple)  # Help on class tuple in module builtins
 
 """None 
 
@@ -158,22 +152,6 @@ x = None
 y = None
 x == y  # Retorna True
 
-###
-
-"""abs()
-
-Retorna o valor absoluto de um número. 
-
-O argumento pode ser um inteiro, um número de ponto flutuante ou um objeto 
-implementando __abs__(). Se o argumento é um número complexo, 
-sua magnitude é retornada.
-"""
-
-x = -3.14156
-abs(x)  # Retorna 3.14156
-
-y = 5 + 6j
-abs(y)  # Retorna 7.810249675906654
 
 """(づ｡◕‿‿◕｡)づ
 
