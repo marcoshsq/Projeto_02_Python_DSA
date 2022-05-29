@@ -156,6 +156,10 @@ def test_booleans():
     assert str(false_boolean) == "False"
 
 
+1 == 1  # Retorna True
+2 == 1  # Retorna False
+True and False  # Retorna False
+
 # Float:
 
 """
