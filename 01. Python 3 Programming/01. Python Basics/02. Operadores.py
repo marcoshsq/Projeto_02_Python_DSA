@@ -1,0 +1,353 @@
+"""
+02. Operadores de Identidade e Associação
+
+    * Operadores Aritméticos;
+    
+    * Operadores Bitwise (Bit-a-Bit);
+
+    * Operadores de Atribuição;
+
+    * Operadores de Comparação;
+
+    * Operadores Lógicos;
+
+    * Operadores de Identidade e Associação.
+
+"""
+
+"""Operadores Aritméticos.
+
+Operadores Aritméticos são usados para realizar operações matemáticas simples, alguns pode 
+ser usados com outros tipos de dados para realizar concatenação e etc.
+
+"""
+
+
+def testar_operadores_aritméticos():
+    """Operadores Aritméticos"""
+
+    # Adição.
+    assert 5 + 3 == 8
+
+    # Subtração.
+    assert 5 - 3 == 2
+
+    # Multiplicação.
+    assert 5 * 3 == 15
+    assert isinstance(5 * 3, int)
+
+    # Divisão.
+    # O resultado pode ser um float.
+    assert 5 / 3 == 1.6666666666666667
+    assert 8 / 4 == 2
+    assert isinstance(5 / 3, float)
+    assert isinstance(8 / 4, float)
+
+    # Módulo, ou resto da divisão.
+    assert 5 % 3 == 2
+
+    # Potenciação.
+    assert 5**3 == 125
+    assert 2**3 == 8
+    assert 2**4 == 16
+    assert 2**5 == 32
+    assert isinstance(5**3, int)
+
+    # Divisão inteira.
+    assert 5 // 3 == 1
+    assert 6 // 3 == 2
+    assert 7 // 3 == 2
+    assert 9 // 3 == 3
+    assert isinstance(5 // 3, int)
+
+
+"""Operadores Bitwise
+
+Operadores bit a bit manipulam números em nível de bit.
+
+"""
+
+
+def test_bitwise_operators():
+    """Operadores Bitwise"""
+
+    # AND
+    # Define cada bit como 1 se ambos os bits forem 1.
+    #
+    # Exemplo:
+    # 5 = 0b0101
+    # 3 = 0b0011
+    assert 5 & 3 == 1  # 0b0001
+
+    # OR
+    # Define cada bit como 1 se um dos dois bits for 1.
+    #
+    # Exemplo:
+    # 5 = 0b0101
+    # 3 = 0b0011
+    assert 5 | 3 == 7  # 0b0111
+
+    # NOT
+    # Inverte todos os bits.
+    assert ~5 == -6
+
+    # XOR
+    # Define cada bit como 1 se apenas um dos dois bits for 1.
+    #
+    # Exemplo:
+    # 5 = 0b0101
+    # 3 = 0b0011
+    number = 5  # 0b0101
+    number ^= 3  # 0b0011
+    assert 5 ^ 3 == 6  # 0b0110
+
+    # Deslocamento à direita assinado
+    # Desloque para a direita empurrando as cópias do bit mais à esquerda da esquerda e deixe o mais à direita
+    # bits caem.
+    #
+    # Exemplo:
+    # 5 = 0b0101
+    assert 5 >> 1 == 2  # 0b0010
+    assert 5 >> 2 == 1  # 0b0001
+
+    # Deslocamento à esquerda de preenchimento zero
+    # Desloque para a esquerda pressionando zeros da direita e deixe os bits mais à esquerda caírem.
+    #
+    # Exemplo:
+    # 5 = 0b0101
+    assert 5 << 1 == 10  # 0b1010
+    assert 5 << 2 == 20  # 0b10100
+
+
+"""Operadores de Atribuição
+
+Os operadores de atribuição são usados para atribuir valores a variáveis
+
+"""
+
+
+def test_assignment_operator():
+    """Operadores de Atribuição"""
+
+    # Atribuição: =
+    number = 5
+    assert number == 5
+
+    # Multiplas Atribuições.
+    # As variáveis first_variable e second_variable obtêm simultaneamente os novos valores 0 e 1.
+    first_variable, second_variable = 0, 1
+    assert first_variable == 0
+    assert second_variable == 1
+
+    # Você pode até trocar valores de variáveis usando atribuição múltipla.
+    first_variable, second_variable = second_variable, first_variable
+    assert first_variable == 1
+    assert second_variable == 0
+
+
+def test_augmented_assignment_operators():
+    """Operador de atribuição combinado com operadores aritméticos e bit a bit"""
+
+    # Atribuição: +=
+    number = 5
+    number += 3
+    assert number == 8
+
+    # Atribuição: -=
+    number = 5
+    number -= 3
+    assert number == 2
+
+    # Atribuição: *=
+    number = 5
+    number *= 3
+    assert number == 15
+
+    # Atribuição: /=
+    number = 8
+    number /= 4
+    assert number == 2
+
+    # Atribuição: %=
+    number = 8
+    number %= 3
+    assert number == 2
+
+    # Atribuição: %=
+    number = 5
+    number %= 3
+    assert number == 2
+
+    # Atribuição: //=
+    number = 5
+    number //= 3
+    assert number == 1
+
+    # Atribuição: **=
+    number = 5
+    number **= 3
+    assert number == 125
+
+    # Atribuição: &=
+    number = 5  # 0b0101
+    number &= 3  # 0b0011
+    assert number == 1  # 0b0001
+
+    # Atribuição: |=
+    number = 5  # 0b0101
+    number |= 3  # 0b0011
+    assert number == 7  # 0b0111
+
+    # Atribuição: ^=
+    number = 5  # 0b0101
+    number ^= 3  # 0b0011
+    assert number == 6  # 0b0110
+
+    # Atribuição: >>=
+    number = 5
+    number >>= 3
+    assert number == 0  # (((5 // 2) // 2) // 2)
+
+    # Atribuição: <<=
+    number = 5
+    number <<= 3
+    assert number == 40  # 5 * 2 * 2 * 2
+
+
+"""Operadores de comparação
+
+Os operadores de comparação são usados para comparar dois valores.
+"""
+
+
+def test_comparison_operators():
+    """Operadores de comparação"""
+
+    # Igual.
+    number = 5
+    assert number == 5
+
+    # Diferente.
+    number = 5
+    assert number != 3
+
+    # Maior que.
+    number = 5
+    assert number > 3
+
+    # Menor que.
+    number = 5
+    assert number < 8
+
+    # Maior ou Igual que
+    number = 5
+    assert number >= 5
+    assert number >= 4
+
+    # Menor ou Igual que
+    number = 5
+    assert number <= 5
+    assert number <= 6
+
+
+"""Logical operators
+
+Operadores lógicos são usados com declarações condicionais.
+
+A lógica é simples:
+
+and | V com V da V
+or  | F com F da F
+not | Inverte o valor lógico
+
+"""
+
+
+def test_logical_operators():
+    """Operadores lógicos"""
+
+    # Exemplos.
+    first_number = 5
+    second_number = 10
+
+    # and
+    # Retorna True se ambos forem True.
+    assert first_number > 0 and second_number < 20
+
+    # or
+    # Retorna True se apenas um for True
+    assert first_number > 5 or second_number < 20
+
+    # not
+    # Inverte o valor lógico.
+    # pylint: disable=unneeded-not
+    assert not first_number == second_number
+    assert first_number != second_number
+
+
+"""Operadores de Identidade
+
+Os operadores de identidade são usados para comparar os objetos, não se forem iguais, mas se forem realmente
+o mesmo objeto, com a mesma localização de memória.
+
+"""
+
+
+def test_identity_operators():
+    """Operadores de Identidade"""
+
+    # Exemplos.
+    first_fruits_list = ["apple", "banana"]
+    second_fruits_list = ["apple", "banana"]
+    third_fruits_list = first_fruits_list
+
+    # is
+    # Retorna verdadeiro se ambas as variáveis forem o mesmo objeto.
+
+    # Exemplos:
+    # first_fruits_list e third_fruits_list são os mesmos objetos.
+    assert first_fruits_list is third_fruits_list
+
+    # is not
+    # Retorna true se ambas as variáveis não forem o mesmo objeto.
+
+    # Exemplo:
+    # first_fruits_list e second_fruits_list não são os mesmos objetos, mesmo que tenham
+    # o mesmo conteúdo
+    assert first_fruits_list is not second_fruits_list
+
+    # Para demonstrar a diferença entre "is" e "==": esta comparação retorna True porque
+    # first_fruits_list é igual a second_fruits_list.
+    assert first_fruits_list == second_fruits_list
+
+
+"""Operadores de Associação
+
+Os operadores de associação são usados para testar se uma sequência é apresentada em um objeto.
+"""
+
+
+def test_membership_operators():
+    """Operadores de Associação"""
+
+    # Exemplo.
+    fruit_list = ["apple", "banana"]
+
+    # in
+    # Retorna True se uma sequência com o valor especificado estiver presente no objeto.
+
+    # Retorna True porque uma sequência com o valor "banana" está na lista
+    assert "banana" in fruit_list
+
+    # not in
+    # Retorna True se uma sequência com o valor especificado não estiver presente no objeto
+
+    # Retorna True porque uma sequência com o valor "pineapple" não está na lista.
+    assert "pineapple" not in fruit_list
+
+
+"""
+
+(づ｡◕‿‿◕｡)づ
+
+"""
