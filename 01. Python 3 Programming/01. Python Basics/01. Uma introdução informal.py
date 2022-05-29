@@ -1,21 +1,8 @@
-"""
-01. Uma introdução informal ao Python＼(^ω^＼).
-
-1. print() e input()
-2. Mais sobre a função print()
-3. help()
-4. Variáveis
-5. Números
-6. Data Types - Numbers
-7. Type casting
-8. Python Keywords
-9. Python Buit-in Functions
-
-# 1. print() e input()
-
+"""Uma introdução informal ao Python＼(^ω^＼).
 
 """
 
+# A função print() e input()
 # Alguns comandos básicos do Python que são importantes:
 
 """O primeiro comando a aprender é o print(), a função print 
@@ -62,8 +49,7 @@ print(f"Hi {name}, nice to meet you!")
 print("Hi {}, nice to meet you!".format(name))
 print("Hi", name + ", nice to meet you!")
 
-"""# 2. Mais sobre a função print() 
-
+"""Mais sobre a função print() 
 
 """
 
@@ -138,7 +124,9 @@ teste[1:5]
 nome = "Marcos"
 len(nome)
 
-"""# 3. help()
+###
+
+"""Função help()
 
 """
 
@@ -148,10 +136,7 @@ help(str)
 
 help(tuple)
 
-
-
-
-
+###
 
 """Type casting.
 
@@ -199,6 +184,8 @@ def test_type_casting_to_string():
     assert str(3.0) == "3.0"
 
 
+###
+
 """True e False: 
 
 São valores lógicos em Python. 
@@ -210,6 +197,8 @@ ou operações lógicas (booleanas) em Python.
 1 == 1  # Retorna True
 2 == 1  # Retorna False
 True and False  # Retorna False
+
+###
 
 """None 
 
@@ -227,6 +216,8 @@ None == False  # Retorna False
 x = None
 y = None
 x == y  # Retorna True
+
+###
 
 """abs()
 
