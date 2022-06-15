@@ -10,6 +10,10 @@
 
 This repository contains my studies of the Python language and its libraries following the Python 3 specialization available on Coursera, as well as other tutorials on the libraries.
 
+##
+
+<h3>Contents:</h3>
+
 - [Python Basics]()
 - [Python Functions, Files, and Dictionaries]()
 - [Data Collection and Processing with Python]()
@@ -18,3 +22,14 @@ This repository contains my studies of the Python language and its libraries fol
 - [Python Tkinter]()
 - [Regular Expressions - (ReGex)]()
 - [OpenCV]()
+
+##
+
+<h3>References:</h3>
+
+[Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) - On Coursera.
+[Tkinter](https://www.youtube.com/watch?v=YXPyB4XeYLA&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=14) - FreeCodeCamp on Youtube.
+[ReGex](https://www.youtube.com/watch?v=AEE9ecgLgdQ&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=20&t=37s) - Python Engineer on Youtube.
+[OpenCV](https://www.youtube.com/watch?v=oXlwWbU8l2o&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=18&t=46s) - FreeCodeCamp on Youtube.
+
+---
