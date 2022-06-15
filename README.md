@@ -8,7 +8,7 @@
 
 <h3>About:</h3>
 
-This repository contains my studies of the Python language and its libraries following the Python 3 specialization available on Coursera, as well as other tutorials on the libraries.
+This repository contains my studies of the Python language and some of its libraries following the Python 3 specialization available on Coursera, as well as other tutorials on the libraries.
 
 ##
 
