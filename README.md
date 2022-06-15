@@ -27,9 +27,9 @@ This repository contains my studies of the Python language and its libraries fol
 
 <h3>References:</h3>
 
-[Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) - On Coursera.
-[Tkinter](https://www.youtube.com/watch?v=YXPyB4XeYLA&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=14) - FreeCodeCamp on Youtube.
-[ReGex](https://www.youtube.com/watch?v=AEE9ecgLgdQ&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=20&t=37s) - Python Engineer on Youtube.
-[OpenCV](https://www.youtube.com/watch?v=oXlwWbU8l2o&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=18&t=46s) - FreeCodeCamp on Youtube.
+- [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) - On Coursera.
+- [Tkinter](https://www.youtube.com/watch?v=YXPyB4XeYLA&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=14) - FreeCodeCamp on Youtube.
+- [ReGex](https://www.youtube.com/watch?v=AEE9ecgLgdQ&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=20&t=37s) - Python Engineer on Youtube.
+- [OpenCV](https://www.youtube.com/watch?v=oXlwWbU8l2o&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=18&t=46s) - FreeCodeCamp on Youtube.
 
 ---
