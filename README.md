@@ -8,15 +8,7 @@
 
 <h3>About:</h3>
 
-This repository contains my studies of the Python language and some of its libraries. 
-
-To guide my studies, I followed the Python Developer Roadmap developed by the [roadmap.sh](https://roadmap.sh/python), which can be seen below:
-
-<p align="center">
-  <a href="https://roadmap.sh/python">
-    <img src="https://github.com/marcoshsq/Python/blob/main/Python%20Icon/PythonRoadMap.png" alt="python" width="800" height="">
-  </a>
-</p>
+This repository contains my studies of the Python language and some of its libraries. To guide my studies, I followed the Python Developer Roadmap developed by the [roadmap.sh](https://roadmap.sh/python).
 
 All courses and tutorials used for study will be at the end of this file, in the references section.
 
