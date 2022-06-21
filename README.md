@@ -18,23 +18,23 @@ To guide my studies, I followed the Python Developer Roadmap developed by the [r
   </a>
 </p>
 
+All courses and tutorials used for study will be at the end of this file, in the references section.
+
 ##
 
 <h3>Contents:</h3>
 
-- [Python Basics]()
-- [Python Functions, Files, and Dictionaries]()
-- [Data Collection and Processing with Python]()
-- [Python Classes and Inheritance]()
-- [Python Project: pillow, tesseract, and opencv]()
-- [Python Tkinter]()
-- [Regular Expressions - (ReGex)]()
-- [OpenCV]()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ##
 
 <h3>References:</h3>
 
+- [Python Developer Roadmap](https://roadmap.sh/python)
 - [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) - On Coursera.
 - [Advanced Python](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) - Python Engineer on Youtube. 
 - [Tkinter](https://www.youtube.com/watch?v=YXPyB4XeYLA&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=14) - FreeCodeCamp on Youtube.
