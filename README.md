@@ -24,11 +24,11 @@ All courses and tutorials used for study will be at the end of this file, in the
 
 <h3>Contents:</h3>
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Python 3 Programming]()
+- [Python Data Structures and Algorithms]()
+- [Advanced Python Concepts]()
+- [Some Modules and Libraries]()
+- [Django Framework]()
 
 ##
 
@@ -37,6 +37,7 @@ All courses and tutorials used for study will be at the end of this file, in the
 - [Python Developer Roadmap](https://roadmap.sh/python)
 - [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) - On Coursera.
 - [Advanced Python](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) - Python Engineer on Youtube. 
+- [Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA&t=13s) - FreeCodeCamp on Youtube.
 - [Tkinter](https://www.youtube.com/watch?v=YXPyB4XeYLA&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=14) - FreeCodeCamp on Youtube.
 - [ReGex](https://www.youtube.com/watch?v=AEE9ecgLgdQ&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=20&t=37s) - Python Engineer on Youtube.
 - [OpenCV](https://www.youtube.com/watch?v=oXlwWbU8l2o&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=18&t=46s) - FreeCodeCamp on Youtube.
