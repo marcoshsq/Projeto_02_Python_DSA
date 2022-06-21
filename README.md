@@ -8,7 +8,15 @@
 
 <h3>About:</h3>
 
-This repository contains my studies of the Python language and some of its libraries following the Python 3 specialization available on Coursera, as well as other tutorials on the libraries.
+This repository contains my studies of the Python language and some of its libraries. 
+
+To guide my studies, I followed the Python Developer Roadmap developed by the [roadmap.sh](https://roadmap.sh/python), which can be seen below:
+
+<p align="center">
+  <a href="https://roadmap.sh/python">
+    <img src="https://github.com/marcoshsq/Python/blob/main/Python%20Icon/PythonRoadMap.jpg" alt="python" width="900" height="">
+  </a>
+</p>
 
 ##
 
