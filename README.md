@@ -14,7 +14,7 @@ To guide my studies, I followed the Python Developer Roadmap developed by the [r
 
 <p align="center">
   <a href="https://roadmap.sh/python">
-    <img src="https://github.com/marcoshsq/Python/blob/main/Python%20Icon/PythonRoadMap.png" alt="python" width="600" height="">
+    <img src="https://github.com/marcoshsq/Python/blob/main/Python%20Icon/PythonRoadMap.png" alt="python" width="800" height="">
   </a>
 </p>
 
