@@ -27,6 +27,7 @@ All courses and tutorials used for study will be at the end of this file, in the
 <h3>References:</h3>
 
 - [Python Developer Roadmap](https://roadmap.sh/python)
+- [Pep 8](https://peps.python.org/pep-0008/) - Aka The Tao of Python
 - [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) - On Coursera.
 - [Advanced Python](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) - Python Engineer on Youtube. 
 - [Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA&t=13s) - FreeCodeCamp on Youtube.
