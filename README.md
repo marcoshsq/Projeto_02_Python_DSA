@@ -6,7 +6,7 @@
   <h2 align="center">:snake::snake: Hello Python! :snake::snake:</h2>
 </div>
 
-<h3>About:</h3>
+<h2>About:</h2>
 
 This repository contains my studies of the Python language and some of its libraries. To guide my studies, I followed the Python Developer Roadmap developed by the [roadmap.sh](https://roadmap.sh/python).
 
@@ -14,17 +14,17 @@ All courses and tutorials used for study will be at the end of this file, in the
 
 ##
 
-Summary:
+<h3>Summary:</h3>
 
-- [Python 3 Programming]()
-- [Python Data Structures and Algorithms]()
-- [Advanced Python Concepts]()
-- [Some Modules and Libraries]()
-- [Django Framework]()
+- [Python 3 Programming](https://github.com/marcoshsq/Python#python-3-programming)
+- [Python Data Structures and Algorithms](https://github.com/marcoshsq/Python#python-data-structures-and-algorithms)
+- [Advanced Python Concepts](https://github.com/marcoshsq/Python#advanced-python-concepts)
+- [Some Modules and Libraries](https://github.com/marcoshsq/Python#some-modules-and-libraries)
+- [Django Framework](https://github.com/marcoshsq/Python#django-framework)
 
 ##
 
-<h3>Contents:</h3>
+<h2>Contents:</h2>
 
 ### [Python 3 Programming]()
 
@@ -36,7 +36,7 @@ Summary:
 
 ##
 
-<h3>References:</h3>
+<h2>References:</h2>
 
 - [Python Developer Roadmap](https://roadmap.sh/python)
 - [Pep 8](https://peps.python.org/pep-0008/) - Aka The Tao of Python
