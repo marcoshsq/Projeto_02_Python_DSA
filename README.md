@@ -16,23 +16,27 @@ All courses and tutorials used for study will be at the end of this file, in the
 
 <h3>Summary:</h3>
 
-- [Python 3 Programming](https://github.com/marcoshsq/Python#python-3-programming)
+- [Python 3 Programming](https://github.com/marcoshsq/Python#python-3-Basics)
+- [Python Functions, Files, and Dictionaries]()
+- [Data Collection and Processing with Python]()
+- [Python Classes and Inheritance]()
+- [Python Project pillow, tesseract, and opencv]()
 - [Python Data Structures and Algorithms](https://github.com/marcoshsq/Python#python-data-structures-and-algorithms)
 - [Advanced Python Concepts](https://github.com/marcoshsq/Python#advanced-python-concepts)
-- [Some Modules and Libraries](https://github.com/marcoshsq/Python#some-modules-and-libraries)
-- [Django Framework](https://github.com/marcoshsq/Python#django-framework)
+- [Tkinter GUI](https://github.com/marcoshsq/Python#some-modules-and-libraries)
 
 ##
 
 <h2>Contents:</h2>
 
-### [Python 3 Programming]()
-
-
-### [Python Data Structures and Algorithms]()
-### [Advanced Python Concepts]()
-### [Some Modules and Libraries]()
-### [Django Framework]()
+### 01. [Python 3 Basics]()
+### 02. [Python Functions, Files, and Dictionaries]()
+### 03. [Data Collection and Processing with Python]()
+### 04. [Python Classes and Inheritance]()
+### 05. [Python Project pillow, tesseract, and opencv]()
+### 06. [Python Data Structures and Algorithms]()
+### 07. [Advanced Python Concepts]()
+### 08. [Tkinter GUI]()
 
 ##
 
