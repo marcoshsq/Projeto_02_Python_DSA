@@ -42,17 +42,32 @@ All courses and tutorials used for study will be at the end of this file, in the
 
 ### 01. [Python 3 Basics]()
 
+This is the first course in the Python 3 Programming specialization.  This four-week course aims to introduce the fundamentals of the language and explores diverse concepts including conditional execution and iteration, such as control-of-flow structures, strings, and lists as data structures. Also, some Turtle library is presented for creating GUI applications and also some debugging techniques.
 
 ### 02. [Python Functions, Files, and Dictionaries]()
 
-This is the first course in the Python 3 Programming specialization. The aim of this course is to introduce the basics of the language, including conditional execution and iteration, as flow control structures, strings, and lists as data structures. In addition, a bit of the Turtle library is presented for creating GUI applications and also some debugging techniques.
 
 
 ### 03. [Data Collection and Processing with Python]()
+
+
+
 ### 04. [Python Classes and Inheritance]()
+
+
+
 ### 05. [Python Project pillow, tesseract, and opencv]()
+
+
+
 ### 06. [Python Data Structures and Algorithms]()
+
+
+
 ### 07. [Advanced Python Concepts]()
+
+
+
 ### 08. [Tkinter GUI]()
 
 ##
