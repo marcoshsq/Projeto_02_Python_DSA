@@ -44,6 +44,9 @@ All courses and tutorials used for study will be at the end of this file, in the
 
 This is the first course in the Python 3 Programming specialization.  This four-week course aims to introduce the fundamentals of the language and explores diverse concepts including conditional execution and iteration, such as control-of-flow structures, strings, and lists as data structures. Also, some Turtle library is presented for creating GUI applications and also some debugging techniques.
 
+  Week 01: Values and Data Types, Operators and Operands, Function Calls, Type Conversion Functions, Variables, Statements, and Expressions,  Turtle Graphics, Importing Modules, Syntax, Runtime, and Semantic Errors, Debugging.
+  
+
 ### 02. [Python Functions, Files, and Dictionaries]()
 
 
