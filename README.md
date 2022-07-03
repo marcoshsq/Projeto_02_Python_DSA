@@ -30,6 +30,8 @@ This repository is divided into 8 folders, the first five are related to the Pyt
 
 The sixth folder is about Data Structures and Algorithms, my goal is not to delve too deep into this subject here, as I intend to learn more in-depth later, but here are some concepts like: Binary Search, Linked Lists and Complexity, Binary Search Trees, Traversals and Recursion, Hash Tables and Python Dictionaries, Divide and Conquer, Graph Algorithms (BFS, DFS & Shortest Paths), etc.
 
+The seventh folder covers more advanced concepts like recursion, regular expressions, and Python specifics like iterators, generators, kwargs, and args. 
+
 All courses and tutorials used for study will be at the end of this file, in the references section.
 
 ##
