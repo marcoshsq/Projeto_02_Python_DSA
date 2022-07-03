@@ -48,9 +48,9 @@ This is the first course in the Python 3 Programming specialization.  This four-
 
 - Week 02: Strings, Lists, Tuples, The Index Operator, The Slice Operator, Concatenation and Repetition, Count and Index, Split and Join, For Loop, The Accumulator Pattern, The Range Function, etc.
 
-- Week 03:
+- Week 03: Boolean Expressions, Logical Operators, The in and not in Operators, Precedence of Operators, Conditional Execution, Unary Selection, Nested Conditionals, and Chained Conditionals, The Accumulator Pattern with Conditionals and Accumulating a Maximum Value, etc.
 
-- Week 04:
+- Week 04: Mutability, List Element Deletion, Objects and References, Aliasing, Cloning Lists, Sequence Mutation, Methods on Lists and Strings Methods on Lists, Append vs. Concatenate, Non-Mutating Methods on Strings, String Format Method, Methods on Lists and Strings, Accumulating Lists and Strings, Making Reference Diagrams, Accumulator Pattern Strategies, etc.
   
 
 ### 02. [Python Functions, Files, and Dictionaries]()
