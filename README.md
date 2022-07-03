@@ -24,7 +24,11 @@
 
 <h2>About:</h2>
 
-This repository contains my studies of the Python language and some of its libraries. To guide my studies, I followed the Python Developer Roadmap developed by the [roadmap.sh](https://roadmap.sh/python).
+This repository contains my studies of the Python language and some of its libraries. To guide my studies, I followed the Python Developer Roadmap, available in [roadmap.sh](https://roadmap.sh/python), until the Repo Hosting Services part.
+
+This repository is divided into 8 folders, the first five are related to the Python 3 Programming specialization available on Coursera. To complement my studies, I acquired a list of exercises from the official Python Brazil website.
+
+The sixth folder is about Data Structures and Algorithms, my goal is not to delve too deep into this subject here, as I intend to learn more in-depth later, but here are some concepts like: Binary Search, Linked Lists and Complexity, Binary Search Trees, Traversals and Recursion, Hash Tables and Python Dictionaries, Divide and Conquer, Graph Algorithms (BFS, DFS & Shortest Paths), etc.
 
 All courses and tutorials used for study will be at the end of this file, in the references section.
 
@@ -33,6 +37,8 @@ All courses and tutorials used for study will be at the end of this file, in the
 <h2>Contents:</h2>
 
 ### 01. [Python 3 Basics]()
+
+
 ### 02. [Python Functions, Files, and Dictionaries]()
 ### 03. [Data Collection and Processing with Python]()
 ### 04. [Python Classes and Inheritance]()
