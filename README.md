@@ -32,6 +32,8 @@ The sixth folder is about Data Structures and Algorithms, my goal is not to delv
 
 The seventh folder covers more advanced concepts like recursion, regular expressions, and Python specifics like iterators, generators, kwargs, and args. 
 
+The last folder contains my projects and studies from the Tkinter library.
+
 All courses and tutorials used for study will be at the end of this file, in the references section.
 
 ##
