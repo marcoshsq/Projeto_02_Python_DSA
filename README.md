@@ -14,13 +14,25 @@ All courses and tutorials used for study will be at the end of this file, in the
 
 ##
 
-<h3>Contents:</h3>
+Summary:
 
 - [Python 3 Programming]()
 - [Python Data Structures and Algorithms]()
 - [Advanced Python Concepts]()
 - [Some Modules and Libraries]()
 - [Django Framework]()
+
+##
+
+<h3>Contents:</h3>
+
+### [Python 3 Programming]()
+
+
+### [Python Data Structures and Algorithms]()
+### [Advanced Python Concepts]()
+### [Some Modules and Libraries]()
+### [Django Framework]()
 
 ##
 
