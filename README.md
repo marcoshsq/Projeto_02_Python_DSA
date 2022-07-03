@@ -10,7 +10,7 @@
 
 - [About](https://github.com/marcoshsq/Python#about)
 - [Contents](https://github.com/marcoshsq/Python#contents)
-  - [Python 3 Programming](https://github.com/marcoshsq/Python#01-python-3-basics)
+  - [Python 3 Basics](https://github.com/marcoshsq/Python#01-python-3-basics)
   - [Python Functions, Files, and Dictionaries](https://github.com/marcoshsq/Python#02-python-functions-files-and-dictionaries)
   - [Data Collection and Processing with Python](https://github.com/marcoshsq/Python#03-data-collection-and-processing-with-python)
   - [Python Classes and Inheritance](https://github.com/marcoshsq/Python#04-python-classes-and-inheritance)
