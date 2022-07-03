@@ -6,24 +6,27 @@
   <h2 align="center">:snake::snake: Hello Python! :snake::snake:</h2>
 </div>
 
+<h2>Summary:</h2>
+
+- [About](https://github.com/marcoshsq/Python#about)
+- [Contents](https://github.com/marcoshsq/Python#contents)
+  - [Python 3 Programming](https://github.com/marcoshsq/Python#01-python-3-basics)
+  - [Python Functions, Files, and Dictionaries](https://github.com/marcoshsq/Python#02-python-functions-files-and-dictionaries)
+  - [Data Collection and Processing with Python](https://github.com/marcoshsq/Python#03-data-collection-and-processing-with-python)
+  - [Python Classes and Inheritance](https://github.com/marcoshsq/Python#04-python-classes-and-inheritance)
+  - [Python Project pillow, tesseract, and opencv](https://github.com/marcoshsq/Python#05-python-project-pillow-tesseract-and-opencv)
+  - [Python Data Structures and Algorithms](https://github.com/marcoshsq/Python#06-python-data-structures-and-algorithms)
+  - [Advanced Python Concepts](https://github.com/marcoshsq/Python#07-advanced-python-concepts)
+  - [Tkinter GUI](https://github.com/marcoshsq/Python#08-tkinter-gui)
+- [References](https://github.com/marcoshsq/Python#references)
+
+##
+
 <h2>About:</h2>
 
 This repository contains my studies of the Python language and some of its libraries. To guide my studies, I followed the Python Developer Roadmap developed by the [roadmap.sh](https://roadmap.sh/python).
 
 All courses and tutorials used for study will be at the end of this file, in the references section.
-
-##
-
-<h3>Summary:</h3>
-
-- [Python 3 Programming](https://github.com/marcoshsq/Python#01-python-3-basics)
-- [Python Functions, Files, and Dictionaries](https://github.com/marcoshsq/Python#02-python-functions-files-and-dictionaries)
-- [Data Collection and Processing with Python](https://github.com/marcoshsq/Python#03-data-collection-and-processing-with-python)
-- [Python Classes and Inheritance](https://github.com/marcoshsq/Python#04-python-classes-and-inheritance)
-- [Python Project pillow, tesseract, and opencv](https://github.com/marcoshsq/Python#05-python-project-pillow-tesseract-and-opencv)
-- [Python Data Structures and Algorithms](https://github.com/marcoshsq/Python#06-python-data-structures-and-algorithms)
-- [Advanced Python Concepts](https://github.com/marcoshsq/Python#07-advanced-python-concepts)
-- [Tkinter GUI](https://github.com/marcoshsq/Python#08-tkinter-gui)
 
 ##
 
