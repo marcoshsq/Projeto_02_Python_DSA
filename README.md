@@ -81,6 +81,10 @@ This is the first [course](https://www.coursera.org/learn/python-basics?speciali
 
 ##
 
+<h2>Considerations:</h2>
+
+##
+
 <h2>References:</h2>
 
 - [Python Developer Roadmap](https://roadmap.sh/python)
@@ -92,5 +96,13 @@ This is the first [course](https://www.coursera.org/learn/python-basics?speciali
 - [ReGex](https://www.youtube.com/watch?v=AEE9ecgLgdQ&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=20&t=37s) - Python Engineer on Youtube.
 - [OpenCV](https://www.youtube.com/watch?v=oXlwWbU8l2o&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=18&t=46s) - FreeCodeCamp on Youtube.
 - [Exercise list](https://wiki.python.org.br/ListaDeExercicios) - Python.org.br
+
+##
+
+<div align="right">
+
+[To the top](https://github.com/marcoshsq/Python#summary)
+
+</div>
 
 ---
