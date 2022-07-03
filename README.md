@@ -18,6 +18,7 @@
   - [Python Data Structures and Algorithms](https://github.com/marcoshsq/Python#06-python-data-structures-and-algorithms)
   - [Advanced Python Concepts](https://github.com/marcoshsq/Python#07-advanced-python-concepts)
   - [Tkinter GUI](https://github.com/marcoshsq/Python#08-tkinter-gui)
+- [Considerations](https://github.com/marcoshsq/Python#considerations)
 - [References](https://github.com/marcoshsq/Python#references)
 
 ##
@@ -44,44 +45,54 @@ All courses and tutorials used for study will be at the end of this file, in the
 
 This is the first [course](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) in the Python 3 Programming specialization.  This four-week course aims to introduce the fundamentals of the language and explores diverse concepts including conditional execution and iteration, such as control-of-flow structures, strings, and lists as data structures. Also, some Turtle library is presented for creating GUI applications and also some debugging techniques.
 
-- Week 01: Values and Data Types, Operators and Operands, Function Calls, Type Conversion Functions, Variables, Statements, and Expressions,  Turtle Graphics, Importing Modules, Syntax, Runtime, and Semantic Errors, Debugging, etc.
+- [Week 01](): Values and Data Types, Operators and Operands, Function Calls, Type Conversion Functions, Variables, Statements, and Expressions,  Turtle Graphics, Importing Modules, Syntax, Runtime, and Semantic Errors, Debugging, etc.
 
-- Week 02: Strings, Lists, Tuples, The Index Operator, The Slice Operator, Concatenation and Repetition, Count and Index, Split and Join, For Loop, The Accumulator Pattern, The Range Function, etc.
+- [Week 02](): Strings, Lists, Tuples, The Index Operator, The Slice Operator, Concatenation and Repetition, Count and Index, Split and Join, For Loop, The Accumulator Pattern, The Range Function, etc.
 
-- Week 03: Boolean Expressions, Logical Operators, The in and not in Operators, Precedence of Operators, Conditional Execution, Unary Selection, Nested Conditionals, and Chained Conditionals, The Accumulator Pattern with Conditionals and Accumulating a Maximum Value, etc.
+- [Week 03](): Boolean Expressions, Logical Operators, The in and not in Operators, Precedence of Operators, Conditional Execution, Unary Selection, Nested Conditionals, and Chained Conditionals, The Accumulator Pattern with Conditionals and Accumulating a Maximum Value, etc.
 
-- Week 04: Mutability, List Element Deletion, Objects and References, Aliasing, Cloning Lists, Sequence Mutation, Methods on Lists and Strings Methods on Lists, Append vs. Concatenate, Non-Mutating Methods on Strings, String Format Method, Methods on Lists and Strings, Accumulating Lists and Strings, Making Reference Diagrams, Accumulator Pattern Strategies, etc.
+- [Week 04](): Mutability, List Element Deletion, Objects and References, Aliasing, Cloning Lists, Sequence Mutation, Methods on Lists and Strings Methods on Lists, Append vs. Concatenate, Non-Mutating Methods on Strings, String Format Method, Methods on Lists and Strings, Accumulating Lists and Strings, Making Reference Diagrams, Accumulator Pattern Strategies, etc.
   
 
 ### 02. [Python Functions, Files, and Dictionaries]()
 
-
+Work in progress...
 
 ### 03. [Data Collection and Processing with Python]()
 
-
+Work in progress...
 
 ### 04. [Python Classes and Inheritance]()
 
-
+Work in progress...
 
 ### 05. [Python Project pillow, tesseract, and opencv]()
 
-
+Work in progress...
 
 ### 06. [Python Data Structures and Algorithms]()
 
-
+Work in progress...
 
 ### 07. [Advanced Python Concepts]()
 
-
+Work in progress...
 
 ### 08. [Tkinter GUI]()
 
 ##
 
 <h2>Considerations:</h2>
+
+Work in progress...
+
+##
+
+<div align="right">
+
+[To the top](https://github.com/marcoshsq/Python#summary)
+
+</div>
 
 ##
 
