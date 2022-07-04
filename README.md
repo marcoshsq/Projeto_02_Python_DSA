@@ -37,39 +37,43 @@ The last folder contains my projects and studies from the Tkinter library.
 
 All courses and tutorials used for study will be at the end of this file, in the references section.
 
+Below are links to the directories with the projects and assignments developed, along with a brief description of what has been studied in the course.
+
 ##
 
 <h2>Contents:</h2>
 
-### 01. [Python 3 Basics]()
+## 01. [Python 3 Basics]()
 
 Work in progress...  
 
-### 02. [Python Functions, Files, and Dictionaries]()
+## 02. [Python Functions, Files, and Dictionaries]()
 
 Work in progress...
 
-### 03. [Data Collection and Processing with Python]()
+## 03. [Data Collection and Processing with Python]()
 
 Work in progress...
 
-### 04. [Python Classes and Inheritance]()
+## 04. [Python Classes and Inheritance]()
 
 Work in progress...
 
-### 05. [Python Project pillow, tesseract, and opencv]()
+## 05. [Python Project pillow, tesseract, and opencv]()
 
 Work in progress...
 
-### 06. [Python Data Structures and Algorithms]()
+## 06. [Python Data Structures and Algorithms]()
 
 Work in progress...
 
-### 07. [Advanced Python Concepts]()
+## 07. [Advanced Python Concepts]()
 
 Work in progress...
 
-### 08. [Tkinter GUI]()
+## 08. [Tkinter GUI]()
+
+Work in progress...
 
 ##
 
