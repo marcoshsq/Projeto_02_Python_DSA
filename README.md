@@ -43,16 +43,7 @@ All courses and tutorials used for study will be at the end of this file, in the
 
 ### 01. [Python 3 Basics]()
 
-This is the first [course](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) in the Python 3 Programming specialization.  This four-week course aims to introduce the fundamentals of the language and explores diverse concepts including conditional execution and iteration, such as control-of-flow structures, strings, and lists as data structures. Also, some Turtle library is presented for creating GUI applications and also some debugging techniques.
-
-- [Week 01](): An informal introduction to Python.
-
-- [Week 02](): Sequences and iterations.
-
-- [Week 03](): Booleans and conditionals.
-
-- [Week 04](): Sequence mutations and accumulation patterns.
-  
+Work in progress...  
 
 ### 02. [Python Functions, Files, and Dictionaries]()
 
