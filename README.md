@@ -96,6 +96,7 @@ Work in progress...
 - [Python Developer Roadmap](https://roadmap.sh/python)
 - [Pep 8](https://peps.python.org/pep-0008/) - Aka The Tao of Python
 - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) - On Coursera.
+- [Programming Code](https://www.coursera.org/learn/program-code) - On Coursera.
 - [Advanced Python](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2) - Python Engineer on Youtube. 
 - [Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA&t=13s) - FreeCodeCamp on Youtube.
 - [Tkinter](https://www.youtube.com/watch?v=YXPyB4XeYLA&list=PLWJTBPhbU2Fc9GXZYx9Y30tTbeBja64Mv&index=14) - FreeCodeCamp on Youtube.
