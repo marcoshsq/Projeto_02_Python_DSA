@@ -43,35 +43,35 @@ Below are links to the directories with the projects and assignments developed, 
 
 <h2>Contents:</h2>
 
-## 01. [Python 3 Basics]()
+## 01. [Python 3 Basics](https://github.com/marcoshsq/Python/tree/main/01.%20Python%20Basics)
 
 Work in progress...  
 
-## 02. [Python Functions, Files, and Dictionaries]()
+## 02. [Python Functions, Files, and Dictionaries](https://github.com/marcoshsq/Python/tree/main/02.%20Python%20Functions%2C%20Files%2C%20and%20Dictionaries)
 
 Work in progress...
 
-## 03. [Data Collection and Processing with Python]()
+## 03. [Data Collection and Processing with Python](https://github.com/marcoshsq/Python/tree/main/03.%20Data%20Collection%20and%20Processing%20with%20Python)
 
 Work in progress...
 
-## 04. [Python Classes and Inheritance]()
+## 04. [Python Classes and Inheritance](https://github.com/marcoshsq/Python/tree/main/04.%20Python%20Classes%20and%20Inheritance)
 
 Work in progress...
 
-## 05. [Python Project pillow, tesseract, and opencv]()
+## 05. [Python Project pillow, tesseract, and opencv](https://github.com/marcoshsq/Python/tree/main/05.%20Python%20Project%20pillow%2C%20tesseract%2C%20and%20opencv)
 
 Work in progress...
 
-## 06. [Python Data Structures and Algorithms]()
+## 06. [Python Data Structures and Algorithms](https://github.com/marcoshsq/Python/tree/main/06.%20Data%20Structures%20%26%20Algorithms)
 
 Work in progress...
 
-## 07. [Advanced Python Concepts]()
+## 07. [Advanced Python Concepts](https://github.com/marcoshsq/Python/tree/main/07.%20Advanced%20Concepts)
 
 Work in progress...
 
-## 08. [Tkinter GUI]()
+## 08. [Tkinter GUI](https://github.com/marcoshsq/Python/tree/main/08.%20Tkinter%20GUI)
 
 Work in progress...
 
