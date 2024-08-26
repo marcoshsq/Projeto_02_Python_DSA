@@ -1,16 +1,22 @@
 <p align="center">
-  <a href="https://github.com/marcoshsq/Python">
+  <a href="https://github.com/marcoshsq/PY4A">
+    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/data-analysis-2157795-1813412.png" alt="python" width="150" height="150">
   </a>
 </p>
-  <h2 align="center">:snake::snake: Hello Python! :snake::snake:</h2>
+  <h2 align="center">:snake::snake: Python para Análise de Dados :snake::snake:</h2>
 </div>
 
-Repository with my projects made from the Python 3 Programming specialization available on Coursera.
+<h3>Sobre:</h3>
 
-  - [Python 3 Basics](https://github.com/marcoshsq/Python3Programming/tree/main/01.%20Python%20Basics/Week_01/01.%20Programming%20in%20Python)
-  - [Python Functions, Files, and Dictionaries](https://github.com/marcoshsq/Python3Programming/tree/main/02.%20Python%20Functions%2C%20Files%2C%20and%20Dictionaries)
-  - [Data Collection and Processing with Python](https://github.com/marcoshsq/Python3Programming/tree/main/03.%20Data%20Collection%20and%20Processing%20with%20Python)
-  - [Python Classes and Inheritance](https://github.com/marcoshsq/Python3Programming/tree/main/04.%20Python%20Classes%20and%20Inheritance)
-  - [Python Project pillow, tesseract, and opencv](https://github.com/marcoshsq/Python3Programming/tree/main/05.%20Python%20Project%20pillow%2C%20tesseract%2C%20and%20opencv)
-  
+Este repositório contém minhas anotações e estudos feitos durante o curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT) oferecido pela Data Science Academy.
+
+
 ##
+
+<h3>Conteúdo:</h3>
+
+Work in progress...
+
+
+
+---
